@@ -27,6 +27,7 @@ El portafolio incluye:
 ```
 
 2. Visita el link de la pagina en tu máquina local:
-```
+
+```bash
   https://ralvarezyeni.github.io/
 ```
