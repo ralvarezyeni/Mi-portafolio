@@ -20,13 +20,13 @@ El portafolio incluye:
 
 ## Instrucciones para Visualizar el Sitio
 
-1. Clona este repositorio en tu máquina local:
+#1. Clona este repositorio en tu máquina local:
 
    ```bash
    git clone https://github.com/YeniAlvarez/portafolio.git
 ```
 
-2. Visita el link de la pagina en tu máquina local:
+#2. Visita el link de la pagina en tu máquina local:
 
 ```bash
   https://ralvarezyeni.github.io/
